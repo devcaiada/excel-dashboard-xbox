@@ -12,6 +12,8 @@ O projeto consiste em:
 
 3. **Dashboard**: Criamos um dashboard visual que apresenta os resultados das análises de forma clara e organizada, facilitando a interpretação dos dados.
 
+![dashboard](https://github.com/devcaiada/excel-dashboard-xbox/blob/main/assets/dashboard.png?raw=true)
+
 ## Passo a Passo do Projeto
 
 ### 1. Preparação da Base de Dados
