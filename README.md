@@ -65,6 +65,8 @@ O Copilot foi uma ferramenta essencial neste projeto, oferecendo as seguintes fu
 
 Este projeto demonstra como o Excel, aliado ao Copilot, pode ser uma ferramenta poderosa para a análise e visualização de dados. Através da transformação de dados brutos em informações visuais claras, foi possível obter insights valiosos sobre o desempenho de vendas, facilitando a tomada de decisões baseadas em dados.
 
+![copilot](https://github.com/devcaiada/excel-dashboard-xbox/blob/main/assets/Copilot.jpg?raw=true)
+
 ## Como Executar o Projeto
 
 1. **Baixe a Base de Dados**: O arquivo `base.xlsx` contém a base de dados utilizada no projeto.
